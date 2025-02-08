@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon profil GitHub !
 
-<!--
-**Cyntheo/Cyntheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 À propos de moi
 
-Here are some ideas to get you started:
+🎮 **Pokéfan depuis 24 ans**  
+🌱 **Team Tortipouss**  
+💥 **Dresseur Pokémon GO — Niveau 46 🏅**  
+🃏 **Collectionneur passionné**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+˗ ˏˋ🌟ˎˊ ˗  
+  ฅ^•ﻌ•^ฅ  
+
+---
+
+## 🔧 Technologies & Projets
+
+🚀 Passionné par le développement et l'innovation digitale  
+💻 Création d'outils et bots pour automatiser diverses tâches  
+🌍 Partage de projets open-source et collaboratifs
+
+## 📫 Me contacter
+
+💬 N'hésitez pas à me contacter pour discuter de projets ou partager votre passion pour Pokémon !
