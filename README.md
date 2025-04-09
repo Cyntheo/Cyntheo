@@ -6,7 +6,7 @@
 
 🎮 Pokéfan depuis 24 ans  
 🌱 Team Tortipouss  
-💥 Dresseur Pokémon GO — Niveau 47 🏅  
+💥 Dresseur Pokémon GO — Niveau 48 🏅  
 🃏 Collectionneur passionné  
 
 
