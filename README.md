@@ -4,14 +4,14 @@
 ## 💡 À propos de moi
 
 
-🎮 Pokéfan depuis 24 ans  
+🎮 Pokéfan depuis 25 ans  
 🌱 Team Tortipouss  
-💥 Dresseur Pokémon GO — Niveau 49 🏅  
+💥 Dresseur Pokémon GO — Niveau 50 🏅  
 🃏 Collectionneur passionné  
 
 
 ˗ ˏˋ🌟ˎˊ ˗  
-ฅ^•ﻌ•^ฅ  
+  ฅ^•ﻌ•^ฅ  
 
 
 ## 🔧 Technologies & Projets
