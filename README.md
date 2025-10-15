@@ -5,12 +5,8 @@
 ## 💡 À propos de moi
 
 ❤️ Pokéfan depuis 25 ans
-
 🌱 Amour immense pour Tortipouss
-
 🥇 Dresseur PoGO depuis 2016
-
-
 🃏 Collectionneur passionné
 
 ˗ ˏˋ🌟ˎˊ ˗
